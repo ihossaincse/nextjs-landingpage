@@ -2,8 +2,9 @@ export interface Button {
   text: string;
   url: string;
 }
-export interface Menu {
+export interface MenuItem {
   text: string;
   url: string;
   active: boolean;
+  onclick: () => any;
 }
