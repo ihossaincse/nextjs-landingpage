@@ -8,7 +8,7 @@ const Layout: React.FC = ({ children }) => {
       <Head>
         <title>Startup Agency Modern Landing</title>
         <meta name="description" content="Startup Agency Modern Landing" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <div className="">
