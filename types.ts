@@ -9,3 +9,11 @@ export interface MenuItem {
   active: boolean;
   onclick: () => any;
 }
+export interface Title {
+  text: string;
+}
+export interface IconTitleText {
+  Icon: object;
+  title: string;
+  text: string;
+}
