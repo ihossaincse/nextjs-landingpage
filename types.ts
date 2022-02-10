@@ -16,4 +16,5 @@ export interface IconTitleText {
   Icon: object;
   title: string;
   text: string;
+  isImgLeft?: boolean;
 }
