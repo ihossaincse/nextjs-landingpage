@@ -11,10 +11,12 @@ export interface MenuItem {
 }
 export interface Title {
   text: string;
+  isWhite?: boolean;
 }
 export interface IconTitleText {
   Icon: object;
   title: string;
   text: string;
   isImgLeft?: boolean;
+  isWhite?: boolean;
 }
