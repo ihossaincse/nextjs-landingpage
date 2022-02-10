@@ -8,7 +8,7 @@ import SubHeading from "./SubHeading";
 
 const Services = () => {
   return (
-    <div className="px-5 pb-10 mx-auto max-w-7xl">
+    <div className="px-5 pb-10 mx-auto md:pb-32 max-w-7xl">
       <div className="grid grid-cols-1 gap-10 md:gap-20 md:grid-cols-2">
         <div className="relative">
           <Image

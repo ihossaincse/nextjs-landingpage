@@ -75,7 +75,7 @@ const Header = () => {
           </div>
         )}
       </div>
-      <div className="pt-10 pb-10 text-center md:pt-20 md:pb-10">
+      <div className="pt-10 pb-16 text-center md:pt-20 md:pb-20">
         <div className="max-w-2xl mx-auto mb-10 md:mb-16">
           <h2 className="pb-5 text-4xl font-semibold leading-tight md:text-6xl">
             Top Quality Digital Products To Explore
